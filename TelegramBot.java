@@ -15,11 +15,10 @@ public class TelegramBot {
     // =========================================================
     // PUT YOUR BOT TOKEN HERE
     // =========================================================
-    private static final String BOT_TOKEN = "8748360288:AAFrb7s6aaQlPvgqv5MzKiNOf7XAh8Ipllo";
+    private static final String BOT_TOKEN = "YOUR_BOT_TOKEN";
 
     private static final String API_URL =
             "https://api.telegram.org/bot" + BOT_TOKEN;
-
     private static final String FILE_URL =
             "https://api.telegram.org/file/bot" + BOT_TOKEN;
 
